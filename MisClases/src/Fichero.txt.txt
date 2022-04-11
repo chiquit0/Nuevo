@@ -1,0 +1,4 @@
+12345;El Quijote;Cervantes;3
+67890;La piedra filosofal;JK Rowling;7
+28547;Los juegos del hambre;Suzanne Collins;2
+19835;Charlie y la fábrica de chocolate;Pepito;5
