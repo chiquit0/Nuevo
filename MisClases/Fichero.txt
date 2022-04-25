@@ -8,3 +8,6 @@
 56
 9
 -3
+Prueba de escritura con BufferedWriter
+Prueba de escritura con BufferedWriter2Prueba de escritura con BufferedWriter
+Prueba de escritura con BufferedWriter2
